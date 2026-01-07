@@ -17,6 +17,9 @@
   <ul>
     <li><a href="LAB_03/index.php">LAB 03</a></li>
   </ul>
+  <ul>
+    <li><a href="LAB_04/index.php">LAB 04</a></li>
+  </ul>
 
   <footer>
     <hr>
