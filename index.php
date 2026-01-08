@@ -20,6 +20,9 @@
   <ul>
     <li><a href="LAB_04/index.php">LAB 04</a></li>
   </ul>
+  <ul>
+    <li><a href="LAB_05/index.php">LAB 05</a></li>
+  </ul>
 
   <footer>
     <hr>
